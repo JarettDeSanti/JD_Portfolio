@@ -110,6 +110,16 @@ p {
   height: 100%;
 }
 
+.fadein img{
+  opacity:0.5;
+  transition: 1s ease;
+}
+  
+  .fadein img:hover{
+  opacity:1;
+  transition: 1s ease;
+}
+
 @media screen and (max-width: 768px) {
   .smaller-images {
     display: flex;
