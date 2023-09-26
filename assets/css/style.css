@@ -54,7 +54,7 @@ h1 {
 
 .slide-right h2 {
   animation: 2s slide-right;
-  animation-delay: 2s;
+  animation-delay: 0s;
 }
 
 @keyframes slide-right {
