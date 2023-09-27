@@ -13,7 +13,6 @@ body {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: var(--light);
   line-height: 1.5;
-  display: block;
 }
 
 nav {
@@ -58,13 +57,13 @@ h1 {
 }
 
 @keyframes slide-right {
-   from {
-      margin-left: -500px;
-   }
+  from {
+    margin-left: -500px;
+  }
 
-   to {
-      margin-left: 0%;
-   }
+  to {
+    margin-left: 0%;
+  }
 }
 
 .sub-title {
@@ -80,7 +79,6 @@ h2 {
 .content {
   margin: 25px 0;
   padding: 10px 0;
-  flex: 0 0 77%;
 }
 
 p {
@@ -90,11 +88,6 @@ p {
 
 .work-item {
   font-size: 20px;
-}
-
-.prework-study-guide {
-  display: flex;
-  justify-content: center;
 }
 
 .study-guide {
@@ -115,7 +108,6 @@ p {
 
 .the-horiseon-webpage {
   display: flex;
-  justify-content: start;
 }
 
 .page-main {
@@ -132,13 +124,13 @@ p {
   height: 100%;
 }
 
-.fadein img{
-  opacity:0.5;
+.fadein img {
+  opacity: 0.5;
   transition: 1s ease;
 }
-  
-  .fadein img:hover{
-  opacity:1;
+
+.fadein img:hover {
+  opacity: 1;
   transition: 1s ease;
 }
 
