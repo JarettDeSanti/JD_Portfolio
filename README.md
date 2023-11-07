@@ -19,7 +19,7 @@ Deployed live site URL: https://jarettdesanti.github.io/JD_Portfolio/
 
 ## Screenshot
 
-![Alt text](AirScape_screenshot.png)
+![Alt text](jarettdesanti.github.io_JD_Portfolio_.png)
 
 ## Credits
 
