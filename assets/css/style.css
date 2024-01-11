@@ -103,7 +103,7 @@ p {
   font-size: 20px;
 }
 
-.study-guide {
+.family-buddy {
   display: flex;
   justify-content: center;
 }
@@ -157,7 +157,7 @@ p {
 }
 
 @media screen and (max-width: 768px) {
-  .study-guide {
+  .family-buddy {
     display: flex;
     flex-wrap: wrap;
     justify-content: start;
